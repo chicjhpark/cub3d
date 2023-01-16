@@ -35,5 +35,6 @@ $> ./cub3d map.cub
   - 바닥 색상 : F 220,100,0
   - 천장 색상 : C 225,30,0
 ### Development Report
-- [레이캐스팅 강의](https://pikuma.com/courses/raycasting-engine-tutorial-algorithm-javascript)를 보면서 
+- [레이캐스팅 강의](https://pikuma.com/courses/raycasting-engine-tutorial-algorithm-javascript)를 보면서 따라 만들었다.
+- 
 
