@@ -29,6 +29,6 @@ $> ./cub3d map.cub
   - 천장 색상 : C 225,30,0
 ### Development Report
 - [Raycasting Engine Programming](https://pikuma.com/courses/raycasting-engine-tutorial-algorithm-javascript)
-> 이 동영상 강의를 보고 레이캐스팅을 삼각함수를 이용하여 구현했다.
+> 이 동영상 강의를 보고 레이캐스팅을 삼각함수를 이용하여 구현다.
 
 ![2D_raycasting](https://user-images.githubusercontent.com/69841779/212916240-e334277b-5caa-4437-8b9c-47407919e1cd.gif)
