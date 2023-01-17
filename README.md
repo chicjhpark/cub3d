@@ -7,6 +7,7 @@
 $> make
 $> ./cub3d map.cub
 ```
+![cub3d](https://user-images.githubusercontent.com/69841779/212979263-b5c86f3e-f1f9-443b-a6b0-c9de863f2f6f.gif)
 - Key
   - 왼쪽과 오른쪽 화살표 : 시점 회전
   - W, A, S, D : 이동
@@ -16,14 +17,6 @@ $> ./cub3d map.cub
 | - | - |
 | Allowed functions | open, close, read, write, printf, malloc, free, perror, strerror, exit, math 라이브러리 함수, [minilibx 라이브러리 함수](https://github.com/terry-yes/mlx_example) |
 - 지도는 4개의 문자로만 구성되어야 합니다. (빈 공간인 경우 0, 벽인 경우 1, 아이템은 2, 플레이어의 시작 위치와 그에 따른 시점은 N, S, E, W)
-  - 간단하고 유효한 맵의 예시입니다 :
-  ```
-  111111
-  100101
-  102001
-  1100N1
-  111111
-  ```
   - 지도는 벽으로 둘러쌓여 있어야 합니다.
 - 각 요소 (지도 제외) 의 첫 번째 정보는 (하나 또는 두개의 문자로 구성된) 유형 식별자입니다.
   - 해상도 : R 1920 1080
