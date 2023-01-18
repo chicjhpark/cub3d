@@ -2,7 +2,7 @@
 ### Reference
 - [울펜슈타인 3D](http://users.atw.hu/wolf3d/)
 ### Introduction
-- 레이캐스팅을 이용하여 만든 3D 미로게임입나다.
+- 레이캐스팅을 이용하여 만든 3D 미로게임
 ```
 $> make
 $> ./cub3d map.cub
@@ -29,6 +29,6 @@ $> ./cub3d map.cub
   - 천장 색상 : C 225,30,0
 ### Development Report
 - [Raycasting Engine Programming](https://pikuma.com/courses/raycasting-engine-tutorial-algorithm-javascript)
-> 이 동영상 강의를 보고 레이캐스팅을 삼각함수를 이용하여 구현하였다.
+> 이 동영상 강의를 보고 레이캐스팅을 삼각함수로 구현하는 방법을 배웠다.
 
 ![2D_raycasting](https://user-images.githubusercontent.com/69841779/212916240-e334277b-5caa-4437-8b9c-47407919e1cd.gif)
