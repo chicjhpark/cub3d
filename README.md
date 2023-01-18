@@ -32,4 +32,4 @@ $> ./cub3d map.cub
 > 이 동영상 강의를 보고 레이캐스팅을 삼각함수로 구현하는 방법을 배웠다.
 
 ![2D_raycasting](https://user-images.githubusercontent.com/69841779/212916240-e334277b-5caa-4437-8b9c-47407919e1cd.gif)
-> 3D를 구현하기 전 2D로 구현한 미로게임이다.
+> 3D를 구현하기 전 2D로 구현한 프로그램이다.
