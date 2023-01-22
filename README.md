@@ -13,9 +13,7 @@ $> ./cub3d map.cub
   - W, A, S, D : 이동
   - ESC : 종료
 ### Rules
-|   |   |
-| - | - |
-| Allowed functions | open, close, read, write, printf, malloc, free, perror, strerror, exit, math 라이브러리 함수, [minilibx 라이브러리 함수](https://github.com/terry-yes/mlx_example) |
+- [minilibx](https://github.com/terry-yes/mlx_example) 를 사용 합니다.
 - 지도는 4개의 문자로만 구성되어야 합니다. (빈 공간인 경우 0, 벽인 경우 1, 아이템은 2, 플레이어의 시작 위치와 그에 따른 시점은 N, S, E, W)
   - 지도는 벽으로 둘러쌓여 있어야 합니다.
 - 각 요소 (지도 제외) 의 첫 번째 정보는 (하나 또는 두개의 문자로 구성된) 유형 식별자입니다.
